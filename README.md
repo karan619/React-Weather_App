@@ -1,3 +1,22 @@
+# React Weather App :cloud:
+![Project5](https://user-images.githubusercontent.com/22108887/120950515-ee868a00-c714-11eb-9169-48ced5898492.PNG)
+
+## Features :snowflake:
+
+:arrow_right: You can search current weather and weather forecast of the any city upto 4 days.<br>
+:arrow_right: It use open weather to fetch real time weather forecast data. <br>
+
+
+## Topics:
+:arrow_right: How to use compnonents and use jsx terinary condtion.<br>
+:arrow_right: How to fetch data from API and reformat the data by creating reusable functions. <br>
+
+
+## TODO :moon:
+
+:pushpin: Change the background and weather icon according day or night <br>
+:pushpin: Add more components with more weather detail on them. <br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
