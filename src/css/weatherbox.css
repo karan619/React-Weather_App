@@ -1,0 +1,32 @@
+.weatherbox__wrapper {
+  display: flex;
+  padding: 20px;
+  color: black;
+}
+
+.weatherbox {
+  margin: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 200px;
+  height: 220px;
+  padding: 5px;
+  border-radius: 30%;
+  background-color: rgba(255, 255, 255, 0.3);
+  box-shadow: 3px 0px 8px silver;
+  padding-bottom: 10px;
+}
+
+.weatherbox__image {
+  width: 100px;
+  height: 100px;
+}
+
+.weatherbox > h1 {
+  font-size: 1.5rem;
+}
+
+.weatherbox > p {
+  font-weight: 650;
+}
